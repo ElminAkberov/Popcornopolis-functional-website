@@ -1,0 +1,1124 @@
+{
+    "chocolate": {
+        "backgroundColor": "#84C4EC",
+        "fill": "#91CBED",
+        "font": "Chocolaty",
+        "fontcolor": "#613223",
+        "title": " Chocolaty Desserts",
+        "titlecolor": "#412015",
+        "subtitle": "Decadently drizzled",
+        "img": "/assets/img/Shop popcorn/chocolate.webp",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff"
+    },
+    "kettle": {
+        "backgroundColor": "#613223",
+        "fill": "#683626",
+        "font": "Kettle",
+        "fontcolor": "#FFA400",
+        "title": "Kettle Gourmet Popcorn",
+        "titlecolor": "#fff",
+        "subtitle": "Experience a perfect duo",
+        "img": "/assets/img/Shop popcorn/Kettle.jpg",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223"
+    },
+    "sweet": {
+        "backgroundColor": "#84C4EC",
+        "fill": "#91CBED",
+        "font": "Sweet",
+        "fontcolor": "#613223",
+        "title": "Sweet Selections",
+        "titlecolor": "#412015",
+        "subtitle": "For your sweet tooth",
+        "img": "/assets/img/Shop popcorn/Sweet.webp",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff"
+    },
+    "caramel": {
+        "backgroundColor": "#E22733",
+        "fill": "#CF242F",
+        "font": "Caramelized",
+        "fontcolor": "#Fed455",
+        "title": "Caramelized Confections",
+        "titlecolor": "#fff",
+        "subtitle": "Sweet Buttery Treats",
+        "img": "/assets/img/Shop popcorn/Caramel.jpg",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223"
+    },
+    "cheese": {
+        "backgroundColor": "#E7730D",
+        "fill": "#EB8124",
+        "title": "Say Cheese",
+        "titlecolor": "#412015",
+        "subtitle": "More cheddar is better",
+        "img": "/assets/img/Shop popcorn/cheese.webp",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff"
+    },
+    "cones": {
+        "backgroundColor": "#613223",
+        "fill": "#683626",
+        "font": "Cones",
+        "fontcolor": "#Fed455",
+        "title": "Popcorn Cones",
+        "titlecolor": "#fff",
+        "subtitle": "Known for the cone",
+        "img": "/assets/img/Shop popcorn/MiniCones (1).webp",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223"
+    },
+    "tins": {
+        "backgroundColor": "#84C4EC",
+        "fill": "#91CBED",
+        "font": "Tins",
+        "fontcolor": "#412015",
+        "title": "Popcorn Tins",
+        "titlecolor": "#412015",
+        "subtitle": "Great for sharing",
+        "img": "/assets/img/Shop popcorn/Tin.webp",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff"
+    },
+    "gift-baskets": {
+        "backgroundColor": "#84C4EC",
+        "fill": "#91CBED",
+        "font": "Baskets",
+        "fontcolor": "#412015",
+        "title": "Impressive Baskets",
+        "titlecolor": "#412015",
+        "subtitle": "Thoughtful Gifts",
+        "img": "/assets/img/Shop popcorn/GiftBaskets.webp",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff"
+    },
+    "bags": {
+        "backgroundColor": "#E7730D",
+        "fill": "#EB8124",
+        "font": "Snacks",
+        "fontcolor": "#fff",
+        "title": "Everyday Snacks",
+        "titlecolor": "#412015",
+        "subtitle": "Perfect for the pantry",
+        "img": "/assets/img/Shop popcorn/Generic_NearlyNaked.webp",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff"
+    },
+    "nearly-naked": {
+        "backgroundColor": "#613223",
+        "fill": "#683626",
+        "font": "Nearly",
+        "fontcolor": "#Fed455",
+        "title": "Nearly Naked",
+        "titlecolor": "#fff",
+        "subtitle": "",
+        "img": "/assets/img/Shop popcorn/nearly.webp",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223"
+    },
+    "kettle-corn-mini-cone-popcorn": {
+        "title": "Kettle Corn Mini Cone Popcorn",
+        "bg": "#E7730D",
+        "fill": "#EB8124",
+        "pack": "Pack of 40",
+        "description": "There's a whole lot of little kettle popcorn cones in this case of 40 popcorn treats. Each is a simple anytime snack that fits in lunchboxes, cupholders, and of course, the palm of your hand. Enjoy them one at a time or share them with friends, family, and coworkers. Each mini cone is like a tiny pop of joy to help lighten up your day. Keep a case in your pantry and you'll be ready for anything.",
+        "flavor": "Kettle Corn",
+        "img": "/assets/img/Shop popcorn/KettleCorn.webp",
+        "subimg": "/assets/img/Kettle.webp",
+        "price": "69.99",
+        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/KettleCorn0.9oz.webp",
+        "stock": "have",
+        "save": "62.99",
+        "savestock": "out",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "The best ingredients on the planet make Popcornopolis Kettle Corn. Popped in small batches with a winning combination of sugar and salt for a perfect balance, along with an unforgettable crunch to make these All-American popcorn treats. It’s sweet. It’s salty. It’s delicious.",
+                "img": "/assets/img/product/Kettle1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "img": "/assets/img/product/Kettle2.jpg"
+            }
+        ]
+    },
+    "zebra®-mini-cone-popcorn": {
+        "title": "Zebra® Mini Cone Popcorn",
+        "bg": "#E7730D",
+        "fill": "#EB8124",
+        "pack": "Pack of 40",
+        "description": "Have you ever dreamed about chocolate flavored popcorn? So have we. In fact, we made that dream a reality many years ago with our, now famous, Zebra® Popcorn, the original Popcornopolis gourmet Caramel Corn drizzled with white and dark confectioner's chocolates....",
+        "flavor": "Zebra®",
+        "img": "/assets/img/Shop popcorn/ZebraMini.webp",
+        "subimg": "/assets/img/Shop popcorn/zebra.webp",
+        "price": "89.99",
+        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/Zebra2.7oz.webp",
+        "stock": "have",
+        "save": "82.99",
+        "savestock": "out",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "Just when you thought that caramel corn couldn’t get any better, in gallops Zebra® Popcorn. Proudly striped in white and dark chocolatey drizzle, it’s a new dimension of decadent flavor and rich aroma. Let the tastes of caramel and chocolate linger sweetly on your tongue. It’s love at first bite.",
+                "img": "/assets/img/product/Zebra1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything.",
+                "img": "/assets/img/product/Zebra2.webp"
+            }
+        ]
+    },
+    "caramel-&-kettle-popcorn-bag": {
+        "title": "Caramel & Kettle Popcorn Bag",
+        "bg": "#613223",
+        "fill": "#683626",
+        "pack": "Pack of 6",
+        "description": "Are you ready to reach popcorn heaven? Because this is no ordinary popcorn; it is both Caramel Corn and Kettle Corn. Talk about an awesome duo. The buttery sweetness of Caramel plays off of the classic saltiness of Kettle in every handful. Keep all of your snack cravings in check by ordering a case today.",
+        "flavor": "Caramel & Kettle",
+        "img": "/assets/img/Shop popcorn/CaramelKettle.webp",
+        "subimg": "/assets/img/Shop popcorn/minicaramel.webp",
+        "price": "23.99",
+        "new": "new",
+        "nutritions": "https://www.popcornopolis.com/wp-content/uploads/MicrosoftTeams-image-14.png",
+        "stock": "have",
+        "save": "21.59",
+        "savestock": "out",
+        "create": "no",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "Sweet and salty, it’s the best of both worlds. We start by crafting two batches of crunchy popcorn, one kissed with buttery     , the second dusted with sugar and salt. Mixed together and eaten simultaneously, they create a magnificent new flavor experience. Try a handful of this happiness today.",
+                "img": "/assets/img/product/CarKet1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "Snacking and more",
+                "description": "It’s no secret, we all love snacking. We want it to taste good and feel good. Our popcorn delivers on the promise of really good snacks made with real ingredients. Whether you are at the office, on the couch, or on the go, these gourmet treats are sure to bring a little pop of joy to your day.",
+                "img": "/assets/img/product/CarKet2.webp"
+            }
+        ]
+    },
+    "caramel-corn-mini-cone-popcorn": {
+        "title": "Caramel Corn Mini Cone Popcorn",
+        "bg": "#E7730D",
+        "fill": "#EB8124",
+        "pack": "Pack of 40",
+        "description": "Ready to fill your pantry with the world's best caramel popcorn? To savor the flavors of sweet cane sugar and real creamery butter slathered over our crispy-crunchy popcorn? Of course you are. Who could resist the caramel popcorn that started it all, wrapped up in cute little cones, let alone a whole case of them? Well, now you don't have to. Keep a case in your pantry and you'll be ready for anything.",
+        "flavor": "Caramel Corn",
+        "img": "/assets/img/Shop popcorn/CaramelCorn.webp",
+        "price": "69.99",
+        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/CaramelCorn2.2oz.webp",
+        "stock": "have",
+        "save": "62.99",
+        "savestock": "out",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "Created to be the world’s very best Caramel Popcorn, this perfect recipe blends the sweet notes of caramelized sugar with silky creamery butter, finished with aged vanilla and a dusting of salt before enrobing our crispy popcorn. After almost 20 years of production, it is still the world’s best.",
+                "img": "/assets/img/product/Caramel1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "img": "/assets/img/product/Caramel2.webp"
+            }
+        ]
+    },
+    "cheddar-cheese-mini-cone-popcorn": {
+        "title": "Cheddar Cheese Mini Cone Popcorn",
+        "bg": "#E7730D",
+        "fill": "#EB8124",
+        "pack": "Pack of 40",
+        "description": "When we think of snacks, the cheesier the better. And with this Cheddar Popcorn by the case, you'll have more cheese than a dairy farm. Handfuls of crispy, crunchy popcorn thickly coated in cheese corn and neatly wrapped up in our cute mini cones. Whether for daily snacking or friendly little gifts, this cheese is sure to please.",
+        "flavor": "Cheddar Cheese",
+        "img": "/assets/img/Shop popcorn/CheedarCheese.webp",
+        "subimg": "/assets/img/Shop popcorn/ched.webp",
+        "price": "69.99",
+        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/Cheddar_Cheese_0.9oz.jpg",
+        "stock": "have",
+        "save": "62.99",
+        "savestock": "out",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "What happens when you take the world’s finest popcorn, and generously dust it with cheesy goodness? You get a tantalizing creation that delivers a zesty, bold, and authentic taste that’s sure to bring a smile. We guarantee you’ve never tasted better cheddar, or better popcorn, for that matter.",
+                "img": "/assets/img/product/Cheddar1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up this popcorn by the case today and you’ll be ready for anything!",
+                "img": "/assets/img/product/Cheddar2.webp"
+            }
+        ]
+    },
+    "mini-cones-premium-assortment": {
+        "title": "Mini Cones Premium Assortment",
+        "bg": "#E7730D",
+        "fill": "#EB8124",
+        "pack": "Pack of 40",
+        "description": "Everyday snacks come in all shapes and sizes but only Popcornopolis comes in cones and mini cones. Only Popcornopolis can offer the delicious chocolatey flavor of Zebra® Popcorn and the very best Kettle, Caramel and Cheese popcorn you will ever try. So, if you want to make the most out of snack time, put this case in your shopping cart today.",
+        "flavor": " Caramel Corn, Cheddar Cheese, Kettle Corn, Zebra®",
+        "img": "/assets/img/product/mix.webp",
+        "subimg": "/assets/img/Shop popcorn/mix.webp",
+        "price": "74.99",
+        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/Mini_Big_4.jpg",
+        "cash": "have",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "We lovingly craft each batch of our gourmet popcorn to maximize your enjoyment and happiness. We use the best and biggest kernels, real ingredients, and time-tested recipes to provide you an amazing experience in every bite. Each handful of our popcorn is meant to bring joy and brighten your day.",
+                "img": "/assets/img/product/Zebra1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything.",
+                "img": "/assets/img/product/Cheddar2.webp"
+            }
+        ]
+    },
+    "nearly-naked-perfectly-salted-popcorn-4.5-oz-bag": {
+        "title": "Nearly Naked Perfectly Salted Popcorn 4.5 oz Bag",
+        "bg": "#613223",
+        "fill": "#683626",
+        "pack": "Pack of 8",
+        "description": "Like what you see? Enjoy. We’re not shy. If we wanted to complicate matters and add a bunch of ingredients, we could. But here, we like it Nearly Naked. A gourmet treat stripped down to heighten every one of your senses.",
+        "flavor": "Nearly Naked",
+        "img": "/assets/img/Shop popcorn/Salted.webp",
+        "subimg": "/assets/img/Shop popcorn/pop.webp",
+        "price": "27.99",
+        "new": "new",
+        "cash": "have",
+        "create": "no",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "Created to be the world’s very best Caramel Popcorn, this perfect recipe blends the sweet notes of caramelized sugar with silky creamery butter, finished with aged vanilla and a dusting of salt before enrobing our crispy popcorn. After almost 20 years of production, it is still the world’s best.",
+                "img": "/assets/img/product/Caramel1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "img": "/assets/img/product/Caramel2.webp"
+            }
+        ]
+    },
+    "nearly-naked-22-oz-bag": {
+        "title": "Nearly Naked 22 oz Bag",
+        "bg": "#613223",
+        "fill": "#683626",
+        "pack": "Pack of 3",
+        "description": "A popcorn snack of epic proportions, these mega-size bags are the largest we have ever made and definitely the largest you've ever seen. Described by many as being taller than a small child, there's enough delicious Nearly Naked Popcorn in one bag to keep you and your whole family happily snacking for days. Of course, it's not just quantity, you can taste the quality in every bite.",
+        "flavor": "Nearly Naked",
+        "img": "/assets/img/Shop popcorn/Nea.webp",
+        "price": "42.99",
+        "stock": "out",
+        "create": "no",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "American-grown gourmet popcorn tossed in buttery-delicious coconut oil and a sprinkled with salt. When it pops, it becomes a large flake with a tender, delicate crunch. This exceptionally rare corn delivers a big, delicious flavor so good, it may quickly become your favorite popcorn snack.",
+                "img": "/assets/img/product/out.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "Snacking and more",
+                "description": "You’ve never seen a popcorn snack this big. Each bag can easily last through a whole day of binge watching. Having a party? Entertaining a big group? A case of delicious Nearly Naked Popcorn is just the right thing to keep your guests happily munching all night long.",
+                "img": "/assets/img/product/out2.webp"
+            }
+        ]
+    },
+    "classic-stripe-2-gallon-tin-caramel": {
+        "title": "Classic Stripe 2-Gallon Tin Caramel Corn",
+        "bg": "#84C4EC",
+        "fill": "#91CBED",
+        "description": "Every popcorn gift tin is not created equal. A Popcornopolis popcorn tin guarantees that you will get a beautiful, reusable steel tub, filled to the brim with the very best gourmet popcorn you have ever tasted. This classic striped edition is filled with caramel corn. Try it yourself, or give it as a gift. Either way, you really can't go wrong. We guarantee it.",
+        "flavor": "Caramel Corn",
+        "img": "/assets/img/Explore/bigtins.webp",
+        "price": "49.99",
+        "stock": "out",
+        "create": "no",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "We lovingly craft each batch of our gourmet popcorn to maximize your enjoyment and happiness. We use the best and biggest kernels, real ingredients, and time-tested recipes to provide you an amazing experience in every bite. Each handful of our popcorn is meant to bring joy and brighten your day.",
+                "img": "/assets/img/product/Caramel1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "On game day or movie night, you can count on this popcorn snack to be the main attraction. With about 40 cups in each medium popcorn tin, it’s a good thing they have a lid to seal them up between sessions. Sure, they’re great for snacking at home, but these beautiful tins also make a thoughtful gift.",
+                "img": "/assets/img/product/out2.webp"
+            }
+        ]
+    },
+    "valentines-day-metallic-hearts-kettle-corn-mini-cone-popcorn": {
+        "title": "Valentine’s Day To: From: Metallic Hearts Kettle Corn Mini Cone Popcorn",
+        "bg": "#E7730D",
+        "fill": "#EB8124",
+        "pack": "Pack of 42",
+        "description": "Tantalize your taste buds and melt a few hearts with the sweet and salty deliciousness of our Valentine's Day-themed Popcornopolis Mini Cones, case of 42. We've wrapped our beloved Kettle Corn kernels in unique, limited-time packaging adorned with heartwarming metallic designs, creating the perfect gift to share with someone special.",
+        "flavor": "Kettle Corn",
+        "img": "/assets/img/Explore/Valentines.webp",
+        "price": "69.99",
+        "stock": "out",
+        "create": "no",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "The best ingredients on the planet make Popcornopolis Kettle Corn. Popped in small batches with a winning combination of sugar and salt for a perfect balance, along with an unforgettable crunch to make these Valentine’s Day popcorn treats. It’s sweet. It’s salty. It’s delicious.",
+                "img": "/assets/img/Explore/Valentines3.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Indulge in the sweet and salty delight we’ve meticulously crafted to capture the essence of the season. Our exclusive packaging not only holds the promise of deliciousness but also the warmth of love. Each mini cone features a special write-in to/from section, perfect for gifting to your favorite Valentine. These goodies are not just popcorn, they’re a symbol of affection, designed to be shared, savored, and celebrated.",
+                "img": "/assets/img/Explore/Valentines1.webp"
+            }
+        ]
+    },
+    "kettle-corn-skeleton-mini-cones": {
+        "title": "Kettle Corn Skeleton Mini Cones",
+        "bg": "#E7730D",
+        "fill": "#EB8124",
+        "pack": "Pack of 70",
+        "description": "It's a delicious gourmet popcorn gift that every little monster will love. What could be more fun for Halloween than offering your trick-or-treaters (or co-workers, dinner guests, kids, etc.) a hauntingly good treat of Kettle Corn Popcorn? Dressed up in a spooky skeleton costume of its own, our mini popcorn cones satisfy and delight Halloween revelers of all ages.",
+        "flavor": "Kettle Corn",
+        "img": "/assets/img/Explore/skeleton.webp",
+        "subimg":"/assets/img/Bats.webp",
+        "nutritions":"https://www.popcornopolis.com/wp-content/uploads/KettleCorn0.9oz.webp",
+        "price": "99.99",
+        "stock": "out",
+        "create": "no",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "The best ingredients on the planet make Popcornopolis Kettle Corn. Popped in small batches with a winning combination of sugar and salt for a perfect balance, along with an unforgettable crunch to make these All-American popcorn treats. It’s sweet. It’s salty. It’s delicious.",
+                "img": "/assets/img/product/Kettle1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything.",
+                "img": "/assets/img/Explore/kid.webp"
+            }
+        ]
+    },
+    "pumpkin-spice-tall-cone": {
+        "title": "Pumpkin Spice Tall Cone",
+        "bg": "#613223",
+        "fill": "#683626",
+        "pack": "Pack of 12",
+        "description": "Sugar. Spice. And everything’s nice. Introducing Pumpkin Spice Popcorn. There is no flavor more synonymous with fall than the comforting deliciousness of pumpkin spice. Everything you’ve come to love about this classic flavor is packaged in this charming seasonal cone that’s excellent as a gift, or for snacking all on your own.",
+        "flavor": "Pumpkin Spice",
+        "img": "/assets/img/Explore/pumpkin.webp",
+        "price": "69.99",
+        "stock": "out",
+        "color": "#fff",
+        "create": "no",
+        "bagbgcolor": "#fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "The delicious magic of the fall season is at your fingertips with Popcornopolis Pumpkin Spice Popcorn. All the flavors of homemade pumpkin pie, fresh from the oven, are generously dusted onto our crispy kettle corn, then topped off with a drizzling of decadent icing. The result: crunchtastic pumpkin spice perfection.",
+                "img": "/assets/img/Explore/pump1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis tall-size cones are the perfect popcorn snack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a Popcornopolis cone make it a perfect gift for any occasion. Share a cone today.",
+                "img": "/assets/img/Explore/pump2.webp"
+            }
+        ]
+    },
+    "caramel-corn-regular-cone": {
+        "title": "Caramel Corn Regular Cone",
+        "bg": "#E22733",
+        "fill": "#CF242F",
+        "pack": "Pack of 12",
+        "description": "Once you hold a cone of Popcornopolis popcorn in your hand, you'll never forget it. And once you taste our classic Caramel Corn, you'll never think of popcorn the same again. You will truly understand the meaning of gourmet popcorn. The layers of flavor, each distinct, blending into a decadent dessert that can only come from Popcornopolis. So hold a cone, eat a handful, and let the joy crunch through.",
+        "flavor": "Caramel Corn",
+        "img": "/assets/img/Explore/cara.webp",
+        "price": "59.99",
+        "lastprice": "89.98",
+        "stock": "out",
+        "color": "#fff",
+        "bagbgcolor": "#fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "Created to be the world’s very best Caramel Popcorn, this perfect recipe blends the sweet notes of caramelized sugar with silky creamery butter, finished with aged vanilla and a dusting of salt before enrobing our crispy popcorn. After almost 20 years of production, it is still the world’s best.",
+                "img": "/assets/img/product/Caramel1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis regular-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a Popcornopolis cone make it a perfect gift for any occasion. Share a cone today.",
+                "img": "/assets/img/product/CaramelTall2.webp"
+            }
+        ]
+    },
+    "cinnamon-toast-mini-cone": {
+        "title": "Cinnamon Toast Mini Cone Popcorn",
+        "bg": "#E7730D",
+        "fill": "#EB8124",
+        "pack": "Pack of 40",
+        "description": "County fairs beware. Churros aren't the only, or even the best, way to enjoy the festive flavors of crunchy cinnamon and sugar. Our mini Cinnamon Toast Popcorn treats are all you need to indulge your sweet tooth without ever standing in a line. Keep a few mini cones handy to satisfy your sweet snacking desires anytime, anywhere.",
+        "flavor": "Cinnamon Toast",
+        "img": "/assets/img/Explore/Cinnamon.webp",
+        "price": "69.99",
+        "stock": "out",
+        "save": "62.99",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "Cinnamon Toast Popcorn is a five-star original. These popcorn treats will immediately get your attention as you taste the down-home goodness of classic cinnamon, sugar, and real creamery butter — backed by a hearty crunch that just doesn’t quit. And with a taste so heavenly, neither will you.",
+                "img": "/assets/img/Explore/Cin1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "img": "/assets/img/Explore/Cin2.webp"
+            }
+        ]
+    },
+    "unicorn-popcorn®-mini-cone": {
+        "title": "Unicorn Popcorn® Mini Cone",
+        "bg": "#E7730D",
+        "fill": "#EB8124",
+        "pack": "Pack of 40",
+        "description": "It's the stuff that dreams are made of. This imaginative blend of natural fruit flavors sweet-tart icings with the classic crunch of gourmet popcorn is a real one-of-a-kind. Like it's loveable namesake, this storybook concoction conjures up a treat to charm the child in us all. A case of 40 individually wrapped popcorn treats will have you ready for delicious fun any time of the year.",
+        "flavor": "Unicorn",
+        "img": "/assets/img/Explore/Uni.webp",
+        "nutrition":"https://www.popcornopolis.com/wp-content/uploads/Unicorn_12_oz.jpg",
+        "price": "89.99",
+        "stock": "out",
+        "save": "80.99",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "A magical treat beyond compare. Each bite blends the sweetness of dreams, with the fantasy of fruitiness. Made with natural berry and lemon flavors and the outrageous colors to match. Iced with creamy splendor; guaranteed to delight every young princess & aspiring wizard. Try Unicorn Popcorn® today.",
+                "img": "/assets/img/Explore/uni2.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "img": "/assets/img/Explore/uni1.webp"
+            }
+        ]
+    },
+    "nearly-naked-white-cheddar-popcorn-4.5-oz-bag": {
+        "title": "Nearly Naked White Cheddar Popcorn 4.5 oz Bag",
+        "bg": "#613223",
+        "fill": "#683626",
+        "pack": "Pack of 8",
+        "description": "Popcorn cheese fans. The search is over. Often imitated, but never duplicated: Nearly Naked White Cheddar popcorn has it all. Rare snow white kernels popped in coconut oil and dusted with zesty real white cheddar seasoning. The tangy flavor and crispy texture combination will be sure to have you reaching for more.",
+        "flavor": "Nearly Naked, White Cheddar",
+        "img": "/assets/img/Shop popcorn/WhiteCheedar.webp",
+        "subimg": "/assets/img/Shop popcorn/pop.webp",
+        "new": "new",
+        "price": "27.99",
+        "cash": "have",
+        "create": "no",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "Our Nearly Naked White Cheddar popcorn is in a class of its own. Snow white kernels, and real cheese combine for a dynamic flavor experience. Creamy and tangy to the taste, light and crispy on the crunch. Seamless and savory. Indulge in this simple, gluten-free pleasure. Delight in the taste of non-GMO, American grown corn. With Nearly Naked White Cheddar popcorn, we take cheesy deliciousness where no one’s gone before.",
+                "img": "/assets/img/product/White1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "Snacking and more",
+                "description": "Popcornopolis Nearly Naked White Cheddar popcorn is the perfect snack for anywhere. On the go, or take it slow. Turn up the party or turn down the lights for a movie. Share the cheesy fun with anyone. Serious zesty business.",
+                "img": "/assets/img/product/White2.webp"
+            }
+        ]
+    },
+    "nearly-naked-jalapeno-lime-popcorn-4.5-oz-bag": {
+        "title": "Nearly Naked Jalapeno Lime Popcorn 4.5 oz Bag",
+        "bg": "#613223",
+        "fill": "#683626",
+        "pack": "Pack of 8",
+        "description": "Popcorn cheese fans. The search is over. Often imitated, but never duplicated: Nearly Naked White Cheddar popcorn has it all. Rare snow white kernels popped in coconut oil and dusted with zesty real white cheddar seasoning. The tangy flavor and crispy texture combination will be sure to have you reaching for more.",
+        "flavor": "Jalapeno Lime, Nearly Naked",
+        "img": "/assets/img/Shop popcorn/Jalapeno.webp",
+        "subimg": "/assets/img/Shop popcorn/pop.webp",
+        "new": "new",
+        "price": "27.99",
+        "cash": "have",
+        "create": "no",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "Heat seekers? Set your sights on our Nearly Naked Jalapeño Lime popcorn. Each bite delivers the spicy and tart combination you didn’t know you needed. Snow white kernels, coconut oil, real jalapeños and lime come together for a tingly and energizing flavor that doesn’t miss the mark. Indulge in this simple, gluten-free pleasure. Savor the taste of non-GMO, American grown corn. With Nearly Naked Jalapeño Lime popcorn, you’ll want this dynamic duo to at every festive moment.",
+                "img": "/assets/img/product/Jalapeno1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "Snacking and more",
+                "description": "Nearly Naked Jalapeño Lime popcorn is the kind of snack meant to be shared. Hand out the heat at any festivity. Take the tart with you anywhere. Energize the moment on the go or at home. Share the spicy fun with anyone.",
+                "img": "/assets/img/product/Jalapeno2.webp"
+            }
+        ]
+    },
+    "red-celebration-5-Cone-gift-basket": {
+        "title": "Red Celebration 5-Cone Gift Basket",
+        "bg": "#84C4EC",
+        "fill": "#91CBED",
+        "pack": "",
+        "description": "A true customer favorite. Our Classic 5-Cone Popcorn Gift Basket comes beautifully wrapped and ready to give. Inside, are the all-star Popcornopolis flavors that made our company famous. Prepare yourself for some serious praise when you present this basket of popcorn snacks to someone special.",
+        "flavor": "",
+        "img": "/assets/img/Shop popcorn/Gift.webp",
+        "price": "49.99",
+        "cash": "have",
+        "create": "no",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "We lovingly craft each batch of our gourmet popcorn to maximize your enjoyment and happiness. We use the best and biggest kernels, real ingredients, and time-tested recipes to provide you an amazing experience in every bite. Each handful of our popcorn is meant to bring joy and brighten your day.",
+                "img": "/assets/img/product/Zebra1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A great gift",
+                "description": "There are plenty of good reasons to give a gift. Gratitude, congratulations, birthdays, and all kinds of other special events and occasions. We believe the very best reason is merely to make someone’s day a little better. So think of a few people that could use a pop of joy and order today.",
+                "img": "/assets/img/product/Gift2.webp"
+            }
+        ]
+    },
+    "unicorn-popcorn®-tall-cone": {
+        "title": "Unicorn Popcorn® Tall Cone",
+        "bg": "#E22733",
+        "fill": "#CF242F",
+        "pack": "",
+        "description": "It's the stuff that dreams are made of. This imaginative blend of natural fruit flavors sweet-tart icings with the classic crunch of gourmet popcorn is a real one-of-a-kind. Like it's loveable namesake, this storybook concoction conjures up a treat to charm the child in us all. A case of 12 individually wrapped popcorn treats will have you ready for delicious fun any time of the year.",
+        "flavor": "Unicorn",
+        "img": "/assets/img/Shop popcorn/Unicorn.webp",
+        "price": "59.99",
+        "cash": "have",
+        "create": "no",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "A magical treat beyond compare. Each bite blends the sweetness of dreams, with the fantasy of fruitiness. Made with natural berry and lemon flavors and the outrageous colors to match. Iced with creamy splendor; guaranteed to delight every young princess & aspiring wizard. Try Unicorn Popcorn® today.",
+                "img": "/assets/img/product/Unicorn1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "img": "/assets/img/product/Unicorn2.webp"
+            }
+        ]
+    },
+    "caramel-corn-tall-cone": {
+        "title": "Caramel Corn Tall Cone",
+        "bg": "#e22733",
+        "fill": "#CF242F",
+        "pack": "Pack of 12",
+        "description": "Ready to fill your pantry with the world's best caramel popcorn? To savor the flavors of sweet cane sugar and real creamery butter slathered over our crispy-crunchy popcorn? Of course you are. Who could resist the caramel popcorn that started it all, wrapped up in cute little cones, let alone a whole case of them? Well, now you don't have to. Keep a case in your pantry and you'll be ready for anything.",
+        "flavor": "Caramel Corn",
+        "img": "/assets/img/Shop popcorn/CaramelCornTall.webp",
+        "subimg": "/assets/img/Shop popcorn/minicaramel.webp",
+        "price": "71.99",
+        "new": "new",
+        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/caramel_corn_2.2_oz.jpg",
+        "cash": "have",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "Created to be the world’s very best Caramel Popcorn, this perfect recipe blends the sweet notes of caramelized sugar with silky creamery butter, finished with aged vanilla and a dusting of salt before enrobing our crispy popcorn. After almost 20 years of production, it is still the world’s best.",
+                "img": "/assets/img/product/CaramelTall1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis tall-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a Popcornopolis cone make it a perfect gift for any occasion. Share a cone today.",
+                "img": "/assets/img/product/CaramelTall2.webp"
+            }
+        ]
+    },
+    "popcornopolis®-takis-fuego®-tall-cone": {
+        "title": "Popcornopolis® Takis Fuego® Tall Cone",
+        "bg": "#E22733",
+        "fill": "#CF242F",
+        "pack": "Pack of 12",
+        "description": "We’re adding some heat to the season. Introducing Popcornopolis® Takis Fuego® Popcorn, an intense flavor combination that brings spicy and tart together to wake-up the taste buds. Add the perfect crunch of our premium popcorn and you won’t be able to extinguish the heat between bites.",
+        "flavor": "Hot Chili Pepper & Lime",
+        "img": "/assets/img/Shop popcorn/Takis.webp",
+        "price": "59.99",
+        "new": "new",
+        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/Takis_Fuego_1.75oz.jpg",
+        "cash": "have",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "Some like it hot. That’s why the Popcornopolis Takis Fuego edition was forged in flames. And out of the fire, rises not just the intense flavor combination of hot chili pepper and lime, but the passion to be bold. Do you have what it takes to face the flame? Get ready for a journey that starts with heat, ends with fun, and is designed to relive over and over.",
+                "img": "/assets/img/Shop popcorn/Takis1.jpg"
+            }
+        ],
+        "info2": [
+            {
+                "title": "Ready for a temperature adventure",
+                "description": "Do not adjust your thermostat. Popcornopolis Takis Fuego tall cones are a perfect way to warm up any holiday event. Excellent for school and office parties, bringing along on the holiday road trip, or livening up this year’s stockings. Fun design. Bold flavor. Stop, drop, and roll. This is not a drill.",
+                "img": "/assets/img/Shop popcorn/Takis2.jpg"
+            }
+        ]
+    },
+    "cheddar-cheese-tall-cone": {
+        "title": "Cheddar Cheese Tall Cone",
+        "bg": "#E22733",
+        "fill": "#CF242F",
+        "pack": "Pack of 12",
+        "description": "The best popcorn snacks are the ones that you remember well after they are gone. A big, beautiful cone of our Cheddar Popcorn will definitely leave a lasting impression long after you have emptied it out and licked your fingers clean. Lucky for you, this case of six cones won't leave you longing for yesterday. All you have to do is open another one.",
+        "flavor": "Cheddar Cheese",
+        "img": "/assets/img/Shop popcorn/CheedarCheeseTall.webp",
+        "subimg": "/assets/img/Shop popcorn/ched.webp",
+        "price": "59.99",
+        "new": "new",
+        "cash": "have",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "What happens when you take the world’s finest popcorn, and generously dust it with cheesy goodness? You get a tantalizing creation that delivers a zesty, bold, and authentic taste that’s sure to bring a smile. We guarantee you’ve never tasted better cheddar, Or better popcorn, for that matter.",
+                "img": "/assets/img/product/Cheddar1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis tall-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a Popcornopolis cone make it a perfect gift for any occasion. Share a cone today.",
+                "img": "/assets/img/product/CheddarTall.webp"
+            }
+        ]
+    },
+    "classic-stripe-2-gallon-tin-classic-assortment": {
+        "title": "Classic Stripe 2-Gallon Tin Classic Assortment",
+        "bg": "#84C4EC",
+        "fill": "#91CBED",
+        "description": "Every popcorn gift tin is not created equal. A Popcornopolis popcorn tin guarantees that you will get a beautiful, reusable steel tub, filled to the brim with the very best gourmet popcorn you have ever tasted. This classic striped edition has three sections, each filled with one of our best-selling varieties. Try them yourself, or give them as a gift. Either way, you really can't go wrong. We guarantee it.",
+        "flavor": "Caramel Corn, Cheddar Cheese, Kettle Corn",
+        "img": "/assets/img/Explore/bigtins.webp",
+        "subimg": "/assets/img/Shop popcorn/tins.webp",
+        "price": "49.99",
+        "nutritions": "https://www.popcornopolis.com/wp-content/uploads/MicrosoftTeams-image-16.jpg",
+        "stock": "have",
+        "save": "44.99",
+        "create": "no",
+        "savestock": "out",
+        "color": "#613223",
+        "bagbgcolor": "#E22733",
+        "bagcolor": "#fff",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "We lovingly craft each batch of our gourmet popcorn to maximize your enjoyment and happiness. We use the best and biggest kernels, real ingredients, and time-tested recipes to provide you an amazing experience in every bite. Each handful of our popcorn is meant to bring joy and brighten your day.",
+                "img": "/assets/img/product/Caramel1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "On game day or movie night, you can count on this popcorn snack to be the main attraction. With about 40 cups in each medium popcorn tin, it’s a good thing they have a lid to seal them up between sessions. Sure, they’re great for snacking at home, but these beautiful tins also make a thoughtful gift.",
+                "img": "/assets/img/Explore/tins.webp"
+            }
+        ]
+    },
+    "zebra®-popcorn-tall-cone": {
+        "title": "Zebra® Popcorn Tall Cone",
+        "bg": "#E22733",
+        "fill": "#CF242F",
+        "pack": "Pack of 12",
+        "description": "Have you ever dreamed about chocolate flavored popcorn? So have we. In fact, we made that dream a reality many years ago with our, now famous, Zebra® Popcorn, the original Popcornopolis gourmet Caramel Corn drizzled with white and dark confectioner's chocolates.It's crispy. It's crunchy. It's chocolatey delicious. A sweet indulgent decadence that you will never forget. We guarantee it..",
+        "flavor": "Zebra®",
+        "img": "/assets/img/Shop popcorn/ZebraTall.webp",
+        "subimg": "/assets/img/Shop popcorn/zebra.webp",
+        "price": "59.99",
+        "new": "new",
+        "cash": "have",
+        "color": "#fff",
+        "bagbgcolor": "#Fed455",
+        "bagcolor": "#613223",
+        "info1": [
+            {
+                "title": "About this flavor",
+                "description": "Just when you thought that caramel corn couldn’t get any better, in gallops Zebra® Popcorn. Proudly striped in white and dark chocolatey drizzle, it’s a new dimension of decadent flavor and rich aroma. Let the tastes of caramel and chocolate linger sweetly on your tongue. It’s love at first bite.",
+                "img": "/assets/img/product/Zebra1.webp"
+            }
+        ],
+        "info2": [
+            {
+                "title": "A snack and a gift",
+                "description": "Popcornopolis tall-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a Popcornopolis cone make it a perfect gift for any occasion. Share a cone today.",
+                "img": "/assets/img/product/ZebraTall.webp"
+            }
+        ]
+    },
+    "zebra": {
+        "backgroundColor": "#E22733",
+        "fill": "#CF242F",
+        "font": "Zebra® Popcorn",
+        "fontcolor": "#fff",
+        "title": "Zebra® Popcorn",
+        "titlecolor": "#fff",
+        "subtitle": "Chocolaty Perfection",
+        "img": "/assets/img/Shop popcorn/chocolate.webp"
+    },
+    "unicorn-popcorn®": {
+        "backgroundColor": "#E22733",
+        "fill": "#CF242F",
+        "title": "Magical Sweet Treats",
+        "titlecolor": "#fff",
+        "subtitle": "Unicorn Popcorn®",
+        "img": "/assets/img/Shop popcorn/Sweet.webp"
+    },
+    "gifts": {
+        "backgroundColor": "#E22733",
+        "fill": "#CF242F",
+        "font": "Gifts",
+        "fontcolor": "#FFDC8B",
+        "title": "Delightful Popcorn Gifts",
+        "titlecolor": "#fff",
+        "subtitle": "Presents popped daily",
+        "img": "/assets/img/Shop popcorn/Gifts.webp"
+    },
+    "kwanzaa": {
+        "backgroundColor": "#E22733",
+        "fill": "#CF242F",
+        "font": "Kwanzaa",
+        "fontcolor": "#613223",
+        "title": "Kwanzaa",
+        "titlecolor": "#fed455",
+        "subtitle": "Celebrating",
+        "img": "/assets/img/Explore/Kwanzaa.webp"
+    },
+    "snacking": {
+        "backgroundColor": "#84C4EC",
+        "font": "Snacking",
+        "fontcolor": "#E22733",
+        "title": "Everyday Snacking",
+        "titlecolor": "#413015",
+        "subtitle": "Get your snack on",
+        "img": "/assets/img/Shop popcorn/Snacking.webp"
+    },
+    "hanukkah": {
+        "backgroundColor": "#84C4EC",
+        "font": "Hanukkah",
+        "fontcolor": "#613223",
+        "title": "Hanukkah",
+        "titlecolor": "#613223",
+        "subtitle": "Celebrating",
+        "img": "/assets/img/Explore/Channukah.webp"
+    },
+    "diwali": {
+        "backgroundColor": "#84C4EC",
+        "font": "Diwali",
+        "fontcolor": "#613223",
+        "title": "Diwali",
+        "titlecolor": "#613223",
+        "subtitle": "Celebrating",
+        "img": "/assets/img/Explore/diwali.webp"
+    },
+    "movie-night": {
+        "backgroundColor": "#E22733",
+        "fill": "#CF242F",
+        "font": "Treats",
+        "fontcolor": "#84C4EC",
+        "title": "Movie Night Treats",
+        "titlecolor": "#fff",
+        "subtitle": "Better than the movies",
+        "img": "/assets/img/Shop popcorn/movies.webp"
+    },
+    "family-favorites": {
+        "backgroundColor": "#E22733",
+        "fill": "#CF242F",
+        "font": "Favorites",
+        "fontcolor": "#FFDC8B",
+        "title": "Family Favorites",
+        "titlecolor": "#fff",
+        "subtitle": "For the whole family",
+        "img": "/assets/img/Shop popcorn/Family.webp"
+    },
+    "party-time": {
+        "backgroundColor": "#E22733",
+        "fill": "#CF242F",
+        "font": "Parties",
+        "fontcolor": "#FFDC8B",
+        "title": "Perfect for Parties",
+        "titlecolor": "#fff",
+        "subtitle": "Get the party started",
+        "img": "/assets/img/Shop popcorn/PartyTime.webp"
+    },
+    "delicious-deals": {
+        "backgroundColor": "#84C4EC",
+        "font": "Deals",
+        "fontcolor": "#613223",
+        "title": "Delicious Deals",
+        "titlecolor": "#413015",
+        "subtitle": "Limited Time Offers",
+        "img": "/assets/img/Shop popcorn/Caramel.jpg"
+    },
+    "new-arrivals": {
+        "backgroundColor": "#84C4EC",
+        "font": "New",
+        "fontcolor": "#E22733",
+        "title": "New Arrivals",
+        "titlecolor": "#413015",
+        "subtitle": "The latest",
+        "img": "/assets/img/Shop popcorn/NewArrival.webp"
+    },
+    "best-sellers": {
+        "backgroundColor": "#E7730D",
+        "fill": "#EB8124",
+        "font": "Best Sellers",
+        "fontcolor": "#413015",
+        "title": "Best Sellers",
+        "titlecolor": "#413015",
+        "subtitle": "Our fan favorites",
+        "img": "/assets/img/Shop popcorn/chocolate.webp"
+    },
+    "gifts-under-$60": {
+        "backgroundColor": "#E22733",
+        "fill": "#CF242F",
+        "font": "Gifts",
+        "fontcolor": "#fff",
+        "title": "Gifts under $60",
+        "titlecolor": "#fed455",
+        "subtitle": "For your someone specials",
+        "img": "/assets/img/Shop popcorn/under1.jpg"
+    },
+    "gifts-under-$100": {
+        "backgroundColor": "#006838",
+        "font": "Gifts",
+        "fontcolor": "#fff",
+        "title": "Gifts under $100",
+        "titlecolor": "#FFC154",
+        "subtitle": "For your someone specials",
+        "img": "/assets/img/Shop popcorn/under2.webp"
+    },
+    "gifts-over-$100": {
+        "backgroundColor": "#e22733",
+        "fill": "#CF242F",
+        "font": "Luxe Gifts ",
+        "fontcolor": "#613223",
+        "title": "Luxe Gifts  over $100",
+        "titlecolor": "#fff",
+        "subtitle": "For your someone specials",
+        "img": "/assets/img/Shop popcorn/under3.webp"
+    },
+    "mini-cones": {
+        "name": "Mini Cones",
+        "bg": "#F28220",
+        "inputbg": "#F5A158",
+        "selectbg": "#E67310",
+        "add": 10,
+        "first": [
+            {
+                "img": "/assets/img/minicard3.webp",
+                "addition": 10,
+                "subcones": 10,
+                "additionPrice": 20,
+                "quantity": 4,
+                "cones": 40,
+                "price": 79.99
+            }
+        ],
+        "second": [
+            {
+                "img": "/assets/img/minicard4.webp",
+                "addition": 10,
+                "subcones": 10,
+                "additionPrice": 10,
+                "quantity": 6,
+                "cones": 60,
+                "price": 109.99
+            }
+        ],
+        "third": [
+            {
+                "img": "/assets/img/minicard5.webp",
+                "subcones": 10,
+                "quantity": 7,
+                "cones": 70,
+                "price": 119.99
+            }
+        ],
+        "flavor": [
+            {
+                "img": "/assets/img/kettlecorn.webp",
+                "name": "Kettle Corn"
+            },
+            {
+                "img": "/assets/img/caramelcorn.webp",
+                "name": "Caramel"
+            },
+            {
+                "img": "/assets/img/cheddar.webp",
+                "name": "Cheedar Cheese"
+            },
+            {
+                "img": "/assets/img/zebra.webp",
+                "name": "Zebra®",
+                "add": 5
+            }
+        ]
+    },
+    "tall-cones": {
+        "name": "Tall Cones",
+        "bg": "#F22F34",
+        "inputbg": "#D0292C",
+        "selectbg": "#A31617",
+        "first": [
+            {
+                "img": "/assets/img/tallcone1.webp",
+                "addition": 6,
+                "additionPrice": 27.00,
+                "quantity": 6,
+                "cones": 6,
+                "price": 32.99
+            }
+        ],
+        "second": [
+            {
+                "img": "/assets/img/tallcone2.webp",
+                "addition": 6,
+                "additionPrice": 25.00,
+                "quantity": 12,
+                "cones": 12,
+                "price": 59.99
+            }
+        ],
+        "third": [
+            {
+                "img": "/assets/img/tallcone3.webp",
+                "addition": 6,
+                "additionPrice": 23.00,
+                "quantity": 18,
+                "cones": 18,
+                "price": 84.99
+            }
+        ],
+        "flavor": [
+            {
+                "img": "/assets/img/caramel.webp",
+                "name": "Caramel Corn",
+                "add": 1
+            },
+            {
+                "img": "/assets/img/fuego.webp",
+                "name": "Takis Fuego®"
+            },
+            {
+                "img": "/assets/img/cheddar.webp",
+                "name": "Cheedar Cheese"
+            },
+            {
+                "img": "/assets/img/zebra.webp",
+                "name": "Zebra®",
+                "add": 1
+            }
+        ]
+    }
+}
