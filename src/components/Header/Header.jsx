@@ -391,13 +391,13 @@ export default function Header({ bgcolor, color, title, onClick }) {
                                                             <NavLink to={"/shop/best-sellers"} className="font-sofia font-bold text-[17px] opacity-100 group relative"><span>Best Sellers</span><span className='invisible absolute group-hover:visible top-[5px] right-[-15px] group-hover:right-[-20px] duration-200 text-[#e22733]'><FaArrowRightLong /></span></NavLink>
                                                         </div>
                                                     </div>
-                                                    <button className='flex items-center gap-4 rounded-full bg-[#FED455] py-2 px-2 font-bold hover:bg-[#ffa400]'><span className=''> Shop All </span><FaArrowRightLong /></button>
+                                                    <button className='flex items-center gap-4 rounded-full bg-[#FED455] py-2 px-2 font-bold hover:bg-[#ffa400]'><NavLink to={"/shop"} className=''> Shop All </NavLink><FaArrowRightLong /></button>
 
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="border-b">
-                                            <p onClick={(es) => handleOpen(es)} className='flex font-sofia font-bold items-center justify-between w-full'><p className="my-2 ">Shop By Occasion </p>{!showHeader['Shop By Occasion'] ? <MdOutlineKeyboardArrowDown className='text-red-600' /> : <MdOutlineKeyboardArrowUp className='text-red-600' />}</p>
+                                            <p onClick={(es) => handleOpen(es)} className='flex font-sofia font-bold items-center justify-between w-full my-2'>Shop By Occasion {!showHeader['Shop By Occasion'] ? <MdOutlineKeyboardArrowDown className='text-red-600' /> : <MdOutlineKeyboardArrowUp className='text-red-600' />}</p>
                                             <div className={`pl-5  text-[17px] ${showHeader['Shop By Occasion'] ? '' : 'hidden'} font-sofia `}>
                                                 <p className='my-5 block'><NavLink to={"/shop/gifts"}>Gifts</NavLink></p>
                                                 <p className='mb-5 block'><NavLink to={"/shop/snacking"}>Snacking</NavLink></p>
@@ -410,7 +410,7 @@ export default function Header({ bgcolor, color, title, onClick }) {
                                             </div>
                                         </div>
                                         <div className="mb-10">
-                                            <p onClick={(es) => handleOpen(es)} className='flex items-center font-sofia font-bold justify-between w-full border-b py-2'><p >Explore </p> {!showHeader['Explore'] ? <MdOutlineKeyboardArrowDown className='text-red-600' /> : <MdOutlineKeyboardArrowUp className='text-red-600' />}</p>
+                                            <p onClick={(es) => handleOpen(es)} className='flex items-center font-sofia font-bold justify-between w-full border-b py-2'>Explore {!showHeader['Explore'] ? <MdOutlineKeyboardArrowDown className='text-red-600' /> : <MdOutlineKeyboardArrowUp className='text-red-600' />}</p>
                                             <div className={`pl-3 font-sofia text-[17px] ${showHeader['Explore'] ? '' : 'hidden'}`}>
                                                 <p className='mb-5 block'><NavLink to={"/mushroom-vs-butterfly-popcorn/"}>About Popcorn</NavLink></p>
                                                 <p className='mb-5 block'><NavLink to={"/gourmet-popcorn/"}>Gourmet Popcorn</NavLink></p>
