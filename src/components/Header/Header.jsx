@@ -348,7 +348,7 @@ export default function Header({ bgcolor, color, title, onClick }) {
                                         <p className=' block py-2 font-sofia border-b font-bold'><NavLink to={"/create-your-own"} className="">Create your own</NavLink></p>
                                         <div className="">
                                             <div className="font-sofia border-b py-2">
-                                                <p onClick={(es) => handleOpen(es)} className='flex items-center justify-between w-full font-bold'><NavLink >Shop Popcorn </NavLink>{!showHeader['Shop Popcorn'] ? <MdOutlineKeyboardArrowDown className='text-red-600' /> : <MdOutlineKeyboardArrowUp className='text-red-600' />} </p>
+                                                <p onClick={(es) => handleOpen(es)} className='flex items-center justify-between w-full font-bold'>Shop Popcorn{!showHeader['Shop Popcorn'] ? <MdOutlineKeyboardArrowDown className='text-red-600' /> : <MdOutlineKeyboardArrowUp className='text-red-600' />} </p>
                                                 <div className={`pl-5 text-[17px] ${showHeader['Shop Popcorn'] ? '' : 'hidden'}`}>
                                                     <h3>FLAVORS.</h3>
                                                     <p><NavLink className='flex items-center my-3'><img className='w-[40px] h-[40px]' src="/assets/img/Header1.webp" alt="" />Chocolate</NavLink>
@@ -397,7 +397,7 @@ export default function Header({ bgcolor, color, title, onClick }) {
                                             </div>
                                         </div>
                                         <div className="border-b">
-                                            <p onClick={(es) => handleOpen(es)} className='flex font-sofia font-bold items-center justify-between w-full'><NavLink className="my-2 ">Shop By Occasion </NavLink>{!showHeader['Shop By Occasion'] ? <MdOutlineKeyboardArrowDown className='text-red-600' /> : <MdOutlineKeyboardArrowUp className='text-red-600' />}</p>
+                                            <p onClick={(es) => handleOpen(es)} className='flex font-sofia font-bold items-center justify-between w-full'><p className="my-2 ">Shop By Occasion </p>{!showHeader['Shop By Occasion'] ? <MdOutlineKeyboardArrowDown className='text-red-600' /> : <MdOutlineKeyboardArrowUp className='text-red-600' />}</p>
                                             <div className={`pl-5  text-[17px] ${showHeader['Shop By Occasion'] ? '' : 'hidden'} font-sofia `}>
                                                 <p className='my-5 block'><NavLink to={"/shop/gifts"}>Gifts</NavLink></p>
                                                 <p className='mb-5 block'><NavLink to={"/shop/snacking"}>Snacking</NavLink></p>
@@ -410,7 +410,7 @@ export default function Header({ bgcolor, color, title, onClick }) {
                                             </div>
                                         </div>
                                         <div className="mb-10">
-                                            <p onClick={(es) => handleOpen(es)} className='flex items-center font-sofia font-bold justify-between w-full border-b py-2'><NavLink >Explore </NavLink> {!showHeader['Explore'] ? <MdOutlineKeyboardArrowDown className='text-red-600' /> : <MdOutlineKeyboardArrowUp className='text-red-600' />}</p>
+                                            <p onClick={(es) => handleOpen(es)} className='flex items-center font-sofia font-bold justify-between w-full border-b py-2'><p >Explore </p> {!showHeader['Explore'] ? <MdOutlineKeyboardArrowDown className='text-red-600' /> : <MdOutlineKeyboardArrowUp className='text-red-600' />}</p>
                                             <div className={`pl-3 font-sofia text-[17px] ${showHeader['Explore'] ? '' : 'hidden'}`}>
                                                 <p className='mb-5 block'><NavLink to={"/mushroom-vs-butterfly-popcorn/"}>About Popcorn</NavLink></p>
                                                 <p className='mb-5 block'><NavLink to={"/gourmet-popcorn/"}>Gourmet Popcorn</NavLink></p>
