@@ -30,7 +30,7 @@ export default function Header({ bgcolor, color, title, onClick }) {
     const [isVisible, setIsVisible] = useState(false);
 
     useEffect(() => {
-        let file = "https://mirafgan.me/popcornpolis/products"
+        let file = "/data.json"
 
         fetch(file).then(res => res.json()).then(res => {
             data = res;

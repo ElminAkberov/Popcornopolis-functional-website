@@ -5,7 +5,7 @@ function SecondStage() {
     const { pathName } = useParams()
     const [data, setData] = useState({ first: [], second: [], third: [] })
     useEffect(() => {
-        fetch("https://mirafgan.me/popcornpolis/shop").then(res => res.json()).then(res => {
+        fetch("/shop.json").then(res => res.json()).then(res => {
             let itemData = res[pathName]
             setData(itemData)
         })

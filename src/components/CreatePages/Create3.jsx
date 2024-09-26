@@ -1,8 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
 import Header from '../Header/Header'
 import Cart from '../Cart'
-
-
 import { HiOutlineArrowLongRight } from 'react-icons/hi2'
 import { FaListUl } from 'react-icons/fa'
 import Footer from '../Footer/Footer'
@@ -23,7 +21,7 @@ function Create3() {
     const [count, setCount] = useState({})
 
     useEffect(() => {
-        fetch("https://mirafgan.me/popcornpolis/shop")
+        fetch("/shop.json")
             .then(res => res.json())
             .then(res => {
                 let itemData = res[pathName];

@@ -14,7 +14,7 @@ function Shop2() {
   let title = data.color
   let arrow = data.fontcolor
   useEffect(() => {
-    fetch("https://mirafgan.me/popcornpolis/shop").then(res => res.json()).then(res => { setData(res[pathName]); })
+    fetch("/shop.json").then(res => res.json()).then(res => { setData(res[pathName]); })
   }, [pathName])
 
   return (

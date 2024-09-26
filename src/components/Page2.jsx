@@ -26,7 +26,7 @@ function Page2() {
     const { names } = useParams();
 
     useEffect(() => {
-        fetch("https://mirafgan.me/popcornpolis/shop")
+        fetch("/shop.json")
             .then(res => res.json())
             .then(res => {
                 const itemData = res[names];
@@ -37,7 +37,7 @@ function Page2() {
             });
     }, [names]);
     useEffect(() => {
-        fetch("https://mirafgan.me/popcornpolis/products").then(res => res.json()).then(res => {
+        fetch("/data.json").then(res => res.json()).then(res => {
             const itemData = res
             if (itemData) {
                 setImg(itemData);

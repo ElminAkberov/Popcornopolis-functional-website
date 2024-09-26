@@ -27,7 +27,7 @@ const Cones = ({ pathName }) => {
         AOS.init({ duration: 1000 });
     }, []);
     useEffect(() => {
-        let file = "https://mirafgan.me/popcornpolis/products"
+        let file = "/data.json"
 
         fetch(file).then(res => res.json()).then(res => {
             data = res;

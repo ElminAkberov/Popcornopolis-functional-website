@@ -8,7 +8,7 @@ function Create() {
     const { pathName } = useParams()
     const [data, setData] = useState({ first: [], second: [], third: [] })
     useEffect(() => {
-        fetch("https://mirafgan.me/popcornpolis/shop").then(res => res.json()).then(res => { setData(res[pathName]) })
+        fetch("/shop.json").then(res => res.json()).then(res => { setData(res[pathName]) })
     }, [pathName])
     let bgcolor = '#e22733'
     let color = "white"

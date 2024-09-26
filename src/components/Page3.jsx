@@ -12,7 +12,7 @@ function Sweet() {
 
 
     useEffect(() => {
-        fetch("https://mirafgan.me/popcornpolis/shop").then(res => res.json()).then(res => { setData(res[name]); })
+        fetch("/shop.json").then(res => res.json()).then(res => { setData(res[name]); })
     }, [name])
     let bgcolor = '#E22733'
     let color = "white"
